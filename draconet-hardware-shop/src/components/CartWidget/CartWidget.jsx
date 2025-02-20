@@ -5,7 +5,7 @@ import AddShoppingCartIcon from "@mui/icons-material/AddShoppingCart"
 const CartWidget = () => {
   return (
     <Badge
-      badgeContent={2}
+      badgeContent={10}
       color="success"
       sx={{
         marginTop: '10px', // Margen arriba
